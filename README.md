@@ -2,7 +2,7 @@ This repo set up the docker containers with flask, nginx, guinicorn, postgres, a
 
 ![alt text](https://github.com/ypei23/flask-on-docker/blob/laststep/s.jpg)
 
-## Build Instructions  
+## Build Instruction 
 
 To build and take up the docker container, run command 
 
