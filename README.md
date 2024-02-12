@@ -1,6 +1,6 @@
 This repo set up the docker containers with flask, nginx, guinicorn, postgres, and media files upload and storage featuers. This serves as the back-end of a photo uploading and viewing program like Instagram. 
 
-![Alt text] (s.jpg)  
+![alt text](https://github.com/ypei23/flask-on-docker/blob/laststep/s.jpg)
 
 ## Build Instructions  
 
